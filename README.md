@@ -1,6 +1,9 @@
 # JavaWebProject
 
-This project is the project of Comp440 CSUN Fall 2021.
+This project is the project of Comp440 CSUN Fall 2021.  
+On the vey first stage, it is a only website like you can check the user table and initlize the database.  
+There's no magnificent frameworks like SSH.  
+There will be more details add into the project.  
 
 # Tools
 
